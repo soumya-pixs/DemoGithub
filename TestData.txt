@@ -1,0 +1,2 @@
+1. Git repo
+2. Clone that to my local
